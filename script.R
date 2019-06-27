@@ -10,5 +10,3 @@ mtcars %>%
        title = "Fuel Economy (MPG) by Number of Engine Cylinders",
        subtitle = "mtcars dataset") +
   guides(fill = FALSE)
-
-mtcars
